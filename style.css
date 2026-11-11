@@ -1,8 +1,13 @@
 * {
     background-color: #009241;
     color: #FFF500;
+    font-size: 40px;
 }
 
 #razdelek {
     border: 1px solid #FFF500 ;
+}
+
+h1 {
+    color: black;
 }
